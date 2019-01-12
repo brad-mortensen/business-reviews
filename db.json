@@ -54,72 +54,6 @@
     "email": "iskates8@ebay.co.uk",
     "password": "JbfWwIIf",
     "gravatar": null
-  }, {
-    "id": 10,
-    "name": "Georgie Stoney",
-    "email": "gstoney9@nih.gov",
-    "password": "0kdZiaIO2hC",
-    "gravatar": null
-  }, {
-    "id": 11,
-    "name": "Guss Kline",
-    "email": "gklinea@google.fr",
-    "password": "CKw95ByMttB",
-    "gravatar": null
-  }, {
-    "id": 12,
-    "name": "Alain Jeacop",
-    "email": "ajeacopb@hatena.ne.jp",
-    "password": "BuWY6Emp",
-    "gravatar": null
-  }, {
-    "id": 13,
-    "name": "Ruthann Skillanders",
-    "email": "rskillandersc@japanpost.jp",
-    "password": "B5toXs",
-    "gravatar": null
-  }, {
-    "id": 14,
-    "name": "Arabelle Craythorn",
-    "email": "acraythornd@wikipedia.org",
-    "password": "pwCrGec",
-    "gravatar": null
-  }, {
-    "id": 15,
-    "name": "Serena Baglow",
-    "email": "sbaglowe@businesswire.com",
-    "password": "qDnycR1FED",
-    "gravatar": null
-  }, {
-    "id": 16,
-    "name": "Lynsey Ledeker",
-    "email": "lledekerf@taobao.com",
-    "password": "v3dfzkhp",
-    "gravatar": null
-  }, {
-    "id": 17,
-    "name": "Zonda Lailey",
-    "email": "zlaileyg@blog.com",
-    "password": "DVe66aBt7d",
-    "gravatar": null
-  }, {
-    "id": 18,
-    "name": "Corabelle Mathwin",
-    "email": "cmathwinh@naver.com",
-    "password": "elTxMMI6Jh0I",
-    "gravatar": null
-  }, {
-    "id": 19,
-    "name": "Tommi Keedy",
-    "email": "tkeedyi@hao123.com",
-    "password": "lqhHd5sr66JI",
-    "gravatar": null
-  }, {
-    "id": 20,
-    "name": "Christophorus Nevin",
-    "email": "cnevinj@ted.com",
-    "password": "9gGblp0D0Gti",
-    "gravatar": null
   }],
   "businesses": [
   {
@@ -162,21 +96,6 @@
     "name": "Jetpulse",
     "image": "http://dummyimage.com/197x129.bmp/cc0000/ffffff",
     "review": 2.3
-  }, {
-    "id": 9,
-    "name": "Myworks",
-    "image": "http://dummyimage.com/236x117.jpg/ff4444/ffffff",
-    "review": 1.3
-  }, {
-    "id": 10,
-    "name": "Kamba",
-    "image": "http://dummyimage.com/248x130.jpg/ff4444/ffffff",
-    "review": 1.4
-  }, {
-    "id": 11,
-    "name": "Skinix",
-    "image": "http://dummyimage.com/228x239.bmp/5fa2dd/ffffff",
-    "review": 4.6
   }],
   "reviews": [
   {
@@ -207,26 +126,5 @@
     "business_id": 13,
     "reviewer_id": 83,
     "rating": 4.1
-  }, {
-    "id": 5,
-    "title": "Synergized demand-driven ability",
-    "body": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum.",
-    "business_id": 78,
-    "reviewer_id": 11,
-    "rating": 1.6
-  }, {
-    "id": 6,
-    "title": "Realigned local throughput",
-    "body": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.",
-    "business_id": 58,
-    "reviewer_id": 27,
-    "rating": 4.0
-  }, {
-    "id": 7,
-    "title": "Function-based radical attitude",
-    "body": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
-    "business_id": 51,
-    "reviewer_id": 32,
-    "rating": 3.6
   }]
 }
